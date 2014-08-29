@@ -1,0 +1,9 @@
+*
+
+!*.sh
+!machine_names.txt*
+!problem_machines
+!README.md
+!asciiArt/
+!asciiArt/*
+!.gitignore
